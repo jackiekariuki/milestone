@@ -1,0 +1,29 @@
+*{ 
+.navbar{
+	display:flex;
+	align items:center;
+	padding:20px
+	
+}
+nav{
+	flex 1;
+	text align;right;
+}
+nav ul{
+display: inline-block;
+list style-type:none;
+	
+
+nav ul li{
+	display:imline block;
+	margin right:20px;
+
+}
+a{
+	text decoration:none;
+	colour:#555;
+
+}
+.header{
+	background: radial-gradient(#fff,#ffd6d6)
+}
